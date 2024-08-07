@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0147-insertion-sort-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -97,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0141-linked-list-cycle) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |

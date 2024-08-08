@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -141,10 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0801-is-graph-bipartite) |
 ## Sorting
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->

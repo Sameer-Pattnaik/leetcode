@@ -12,11 +12,11 @@ public:
         pq.push(make_pair(0,make_pair(src,0)));
         while(!pq.empty())
         {
-            int key=pq.top().first;
+            int stops=pq.top().first;
             int node=pq.top().second.first;
             int dis=pq.top().second.second;
             pq.pop();
-            if(key>k)
+            if(stops>k)
             {
                 continue;
             }
@@ -27,7 +27,7 @@ public:
                 if(dis + edgeWeight<dist[adjNode])
                 {
                     dist[adjNode]=dis + edgeWeight;
-                    pq.push(make_pair(key+1,make_pair(adjNode,dist[adjNode])));
+                    pq.push(make_pair(stops+1,make_pair(adjNode,dist[adjNode])));
 
                 }
             }

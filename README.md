@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0115-distinct-subsequences) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

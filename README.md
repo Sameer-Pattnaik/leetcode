@@ -134,12 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0801-is-graph-bipartite) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->

@@ -133,10 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |

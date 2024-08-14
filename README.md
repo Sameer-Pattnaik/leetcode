@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0069-sqrtx) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2556-convert-the-temperature) |

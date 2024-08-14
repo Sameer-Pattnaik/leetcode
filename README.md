@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0147-insertion-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |

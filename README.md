@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0057-insert-interval) |
+| [0090-subsets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0275-h-index-ii) |
@@ -330,4 +331,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

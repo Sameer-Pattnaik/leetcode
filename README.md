@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0031-next-permutation) |
+| [0047-permutations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0057-insert-interval) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0274-h-index) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

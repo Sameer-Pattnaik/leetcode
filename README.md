@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0141-linked-list-cycle) |
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0575-distribute-candies) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0115-distinct-subsequences) |
+| [0290-word-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0290-word-pattern) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1894-merge-strings-alternately) |

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1046-max-consecutive-ones-iii) |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
+| [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0890-lemonade-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0143-reorder-list) |
+| [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
+| [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |
 | [1380-number-of-closed-islands](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0874-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0476-number-complement) |
+| [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Enumeration
 |  |

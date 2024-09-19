@@ -9,16 +9,10 @@ public:
             sort(s.begin(),s.end());
             mp[s].push_back(strs[i]);
         }
-        int idx=0;
-        vector<vector<string>>ans(mp.size());
+        vector<vector<string>>ans;
         for(auto it:mp)
         {
-            auto x=it.second;
-            for(int i=0;i<x.size();i++)
-            {
-                 ans[idx].push_back(x[i]);
-            }
-            idx++;
+           ans.push_back(it.second);
         }
         return ans;
     }

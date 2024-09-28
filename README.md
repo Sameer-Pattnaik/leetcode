@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Monotonic Stack
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0890-lemonade-change) |
 ## Merge Sort
 |  |

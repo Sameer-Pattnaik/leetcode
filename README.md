@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2722-prime-in-diagonal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1944-truncate-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3462-vowels-game-in-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Graph
 |  |

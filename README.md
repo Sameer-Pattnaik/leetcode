@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0038-count-and-say) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0371-sum-of-two-integers) |

@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0504-base-7](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0504-base-7) |
 | [0564-find-the-closest-palindrome](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |

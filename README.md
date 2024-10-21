@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1380-number-of-closed-islands](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1380-number-of-closed-islands) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0904-leaf-similar-trees) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Matrix
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Monotonic Stack
 |  |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Strongly Connected Component
 |  |
 | ------- |

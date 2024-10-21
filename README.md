@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Strongly Connected Component

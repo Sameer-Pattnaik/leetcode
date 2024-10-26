@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0923-super-egg-drop](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Number Theory
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |
 | [1380-number-of-closed-islands](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1380-number-of-closed-islands) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2722-prime-in-diagonal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2722-prime-in-diagonal) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Monotonic Stack
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |

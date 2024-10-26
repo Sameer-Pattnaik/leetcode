@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-longest-alternating-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Dynamic Programming
 |  |
 | ------- |

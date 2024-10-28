@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0575-distribute-candies](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0575-distribute-candies) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0383-ransom-note) |
 | [0564-find-the-closest-palindrome](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |

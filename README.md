@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0127-word-ladder) |
+| [0207-course-schedule](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0542-01-matrix) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Heap (Priority Queue)

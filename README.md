@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1260-day-of-the-year](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1260-day-of-the-year) |
 | [1283-reformat-date](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1283-reformat-date) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1651-shuffle-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1894-merge-strings-alternately) |

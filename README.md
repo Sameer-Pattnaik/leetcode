@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2580-circular-sentence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Counting

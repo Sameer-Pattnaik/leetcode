@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-longest-alternating-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-binary-gap](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0899-binary-gap) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Enumeration
 |  |

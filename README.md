@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2433-best-poker-hand](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2433-best-poker-hand) |
 | [2722-prime-in-diagonal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2433-best-poker-hand](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2433-best-poker-hand) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2433-best-poker-hand](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2433-best-poker-hand) |
 ## Math
 |  |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-binary-gap](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0899-binary-gap) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Enumeration

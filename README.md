@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1651-shuffle-string) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1940-maximum-xor-for-each-query](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0899-binary-gap) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1940-maximum-xor-for-each-query](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |

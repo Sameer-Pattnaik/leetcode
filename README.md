@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1651-shuffle-string) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1755-defuse-the-bomb](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1755-defuse-the-bomb](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Prefix Sum
 |  |

@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2433-best-poker-hand](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2433-best-poker-hand) |
 | [2722-prime-in-diagonal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2722-prime-in-diagonal) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2580-circular-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2580-circular-sentence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |

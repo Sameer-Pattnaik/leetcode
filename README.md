@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-reformat-date](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1283-reformat-date) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1944-truncate-sentence) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0874-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -704,5 +706,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->

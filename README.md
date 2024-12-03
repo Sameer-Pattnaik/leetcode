@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |

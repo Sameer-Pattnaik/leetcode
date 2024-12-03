@@ -7,7 +7,7 @@ public:
         stack<int>eval;
         for(int i=0;i<s.length();i++)
         {
-            if(isdigit(s[i]))
+            if(s[i]>='0' && s[i]<='9')
             {
                 number=number*10+(s[i]-'0');
             }

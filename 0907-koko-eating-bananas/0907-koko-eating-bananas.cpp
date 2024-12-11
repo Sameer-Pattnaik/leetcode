@@ -19,7 +19,11 @@ public:
         return true;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
-       int maxi=*max_element(piles.begin(),piles.end());
+        int maxi=INT_MIN;
+        for(int i=0;i<piles.size();i++)
+        {
+       maxi=max(maxi,piles[i]);
+        }
        int ans=0;
        
        int mini=1;

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0179-largest-number) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0435-non-overlapping-intervals) |

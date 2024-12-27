@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0067-add-binary) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0093-restore-ip-addresses) |

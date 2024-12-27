@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0115-distinct-subsequences) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0224-basic-calculator) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0874-backspace-string-compare) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0190-reverse-bits) |
 | [0371-sum-of-two-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0371-sum-of-two-integers) |

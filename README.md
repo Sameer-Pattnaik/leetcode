@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1944-truncate-sentence) |
+| [1970-sorting-the-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1970-sorting-the-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Monotonic Stack

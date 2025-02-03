@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |

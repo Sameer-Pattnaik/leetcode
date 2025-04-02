@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0633-sum-of-square-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0923-super-egg-drop](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0923-super-egg-drop) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0275-h-index-ii) |
 | [0367-valid-perfect-square](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0923-super-egg-drop) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0633-sum-of-square-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0874-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |

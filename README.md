@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0115-distinct-subsequences) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |

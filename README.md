@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0224-basic-calculator) |
+| [0263-ugly-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0371-sum-of-two-integers) |

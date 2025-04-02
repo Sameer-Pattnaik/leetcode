@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0093-restore-ip-addresses) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0143-reorder-list) |

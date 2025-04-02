@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0383-ransom-note) |
+| [0399-evaluate-division](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0520-detect-capital) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0801-is-graph-bipartite) |
@@ -639,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -663,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Trie
 |  |

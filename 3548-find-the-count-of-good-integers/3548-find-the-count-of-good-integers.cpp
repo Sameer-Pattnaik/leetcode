@@ -1,13 +1,13 @@
 class Solution {
 public:
-    // \U0001f522 Chakra Resource Counter (Factorial)
+   
     long long factorial(int num) {
         long long chakra = 1;
         for (int i = 1; i <= num; i++) chakra *= i;
         return chakra;
     }
 
-    // \U0001f300 Shadow Clone Builder
+   
     void generatePalindromes(string& clone, int index, vector<string>& validClones, int k) {
         if (index >= (clone.length() + 1) / 2) {
             if (stoll(clone) % k == 0) validClones.push_back(clone);
@@ -27,7 +27,7 @@ public:
         }
     }
 
-    // \U0001f4a5 Hidden Leaf’s Main Function
+    
     long long countGoodIntegers(int n, int k) {
         vector<string> validClones;
         string baseClone(n, '0');
@@ -35,7 +35,7 @@ public:
 
         set<string> chakraPatterns;
 
-        // \U0001f9e0 Unique Frequency Fingerprint for each Clone
+       
         for (auto& clone : validClones) {
             vector<int> freq(10, 0);
             for (char c : clone) freq[c - '0']++;

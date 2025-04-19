@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2722-prime-in-diagonal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2870-longest-alternating-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2870-longest-alternating-subarray) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1970-sorting-the-sentence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Monotonic Stack
 |  |

@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1500-count-largest-group](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1500-count-largest-group) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2032-largest-odd-number-in-string) |

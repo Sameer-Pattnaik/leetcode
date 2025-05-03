@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1039-find-the-town-judge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2032-largest-odd-number-in-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |

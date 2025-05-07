@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0068-text-justification) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0069-sqrtx) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0289-game-of-life) |

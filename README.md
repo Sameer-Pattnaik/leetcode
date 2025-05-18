@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0923-super-egg-drop) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1063-best-sightseeing-pair) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |

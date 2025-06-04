@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3636-check-balanced-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3636-check-balanced-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Counting
 |  |
 | ------- |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Brainteaser
 |  |
 | ------- |

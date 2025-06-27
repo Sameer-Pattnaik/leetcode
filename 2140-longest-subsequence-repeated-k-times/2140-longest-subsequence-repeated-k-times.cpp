@@ -11,7 +11,7 @@ public:
                 }
             }
         }
-    //    cout<<"k="<<k<<endl;
+    
         return k==0;
     }
 
@@ -25,7 +25,7 @@ public:
         for (char c : chars){
             t.push_back(c);
             dfs(s, t, k);
-            t.pop_back();// backtracking
+            t.pop_back();
         }
     }
 
@@ -39,8 +39,7 @@ public:
         }
         if (hasX==0) return "";
 
-        // reuse s, rebuild the string s for c in s with freq[c-'a]>=k 
-        // it's faster for checking if a subsequence is reapted k times
+        
         int j=0;
         n=s.size();
         for(int i=0; i<n; i++){
@@ -51,7 +50,7 @@ public:
         n=j;
         maxLen=n/k;
         
-        for(int i=25; i>=0; i--)// lexico large first
+        for(int i=25; i>=0; i--)
             if (hasX[i]) chars.push_back('a'+i);
         string t="";
         dfs(s, t, k);

@@ -22,14 +22,13 @@ public:
         int ans=0;
         for(int l=0, r=n-1; l<=r; ){
             if( nums[l]+nums[r]<=target){
-                ans+=pow2mod[r-l];// % mod is costly 
+                ans+=pow2mod[r-l];
                 if (ans>=mod) ans-=mod;
                 l++;
             }
             else{
-                // binary method is not so efficient
-                //r=upper_bound(nums.begin()+l, nums.begin()+r, target-nums[l])-nums.begin()-1;
-                r--;// this is even better
+              
+                r--;
             }
         }
         return ans;

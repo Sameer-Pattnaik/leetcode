@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0837-most-common-word) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -832,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1046-max-consecutive-ones-iii) |

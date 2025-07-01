@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3636-check-balanced-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3636-check-balanced-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |

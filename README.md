@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
@@ -963,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Merge Sort
 |  |
 | ------- |

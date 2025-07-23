@@ -1,5 +1,3 @@
-#include <vector>
-
 class RecentCounter {
 private:
     std::vector<int> records;

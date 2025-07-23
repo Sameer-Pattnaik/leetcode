@@ -944,11 +944,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Greedy
 |  |
 | ------- |
@@ -1061,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0969-number-of-recent-calls](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue

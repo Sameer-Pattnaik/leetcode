@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0772-construct-quad-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0772-construct-quad-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0450-delete-node-in-a-bst](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |

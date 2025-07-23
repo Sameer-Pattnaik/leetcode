@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
@@ -960,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |

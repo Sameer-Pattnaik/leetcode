@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2433-best-poker-hand) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |

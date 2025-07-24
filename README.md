@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2433-best-poker-hand) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3447-clear-digits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |

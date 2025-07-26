@@ -29,7 +29,7 @@ public:
         
         long long max_bonus = 0;
         for(long long b : bonus) {
-            max_bonus = std::max(max_bonus, b);
+            max_bonus = max(max_bonus, b);
         }
 
         return ans + max_bonus;

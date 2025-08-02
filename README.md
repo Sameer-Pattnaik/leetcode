@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2689-rearranging-fruits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2722-prime-in-diagonal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2433-best-poker-hand) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2689-rearranging-fruits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2689-rearranging-fruits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |

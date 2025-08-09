@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0367-valid-perfect-square) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1078,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0491-non-decreasing-subsequences) |

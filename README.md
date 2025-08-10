@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1039-find-the-town-judge) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0826-soup-servings](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0923-super-egg-drop](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0923-super-egg-drop) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1260-day-of-the-year) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
+| [0900-reordered-power-of-2](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1256-rank-transform-of-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1397-search-suggestions-system](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1397-search-suggestions-system) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -1107,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |

@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
+| [0326-power-of-three](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0504-base-7) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |

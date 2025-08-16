@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1448-maximum-69-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1500-count-largest-group) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2032-largest-odd-number-in-string) |

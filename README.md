@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1656-count-good-triplets) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -854,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Simulation
 |  |

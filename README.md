@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0047-permutations-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0212-word-search-ii) |
@@ -1103,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0077-combinations) |

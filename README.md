@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3321-type-of-triangle) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3321-type-of-triangle) |
@@ -1168,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-longest-alternating-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2998-count-symmetric-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1228,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0149-max-points-on-a-line) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Combinatorics
 |  |
 | ------- |

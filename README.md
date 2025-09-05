@@ -1154,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1172,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2870-longest-alternating-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2998-count-symmetric-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1187,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |

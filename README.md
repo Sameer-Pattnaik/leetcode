@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3636-check-balanced-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |

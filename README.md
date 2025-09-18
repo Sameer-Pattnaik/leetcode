@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3678-design-task-manager](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3678-design-task-manager](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3678-design-task-manager) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1078,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -1288,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics

@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0263-ugly-number) |

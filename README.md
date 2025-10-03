@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0542-01-matrix) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0695-max-area-of-island) |
@@ -975,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |

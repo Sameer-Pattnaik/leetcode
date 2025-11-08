@@ -839,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-binary-gap](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0899-binary-gap) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1313,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0139-word-break) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |

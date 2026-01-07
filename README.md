@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3663-find-the-least-frequent-digit](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3668-restore-finishing-order](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3668-restore-finishing-order) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3663-find-the-least-frequent-digit](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3668-restore-finishing-order](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3668-restore-finishing-order) |
 | [3678-design-task-manager](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3797-design-spreadsheet) |

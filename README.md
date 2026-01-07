@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0874-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2048-build-array-from-permutation) |

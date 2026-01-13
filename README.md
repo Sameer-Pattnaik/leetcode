@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3453-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3827-implement-router) |

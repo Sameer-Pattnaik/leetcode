@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3663-find-the-least-frequent-digit](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -1017,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Monotonic Stack
 |  |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum

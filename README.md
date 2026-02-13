@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3668-restore-finishing-order) |
 | [3678-design-task-manager](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3678-design-task-manager) |
+| [3714-longest-balanced-substring-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3827-implement-router) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3636-check-balanced-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3636-check-balanced-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1171,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Rolling Hash

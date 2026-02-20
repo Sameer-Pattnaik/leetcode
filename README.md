@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
+| [0761-special-binary-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0761-special-binary-string) |
 | [0782-jewels-and-stones](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0812-rotate-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0812-rotate-string) |
@@ -988,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0721-accounts-merge) |
+| [0761-special-binary-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -1192,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0761-special-binary-string) |
 | [0772-construct-quad-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2280-count-good-triplets-in-an-array) |

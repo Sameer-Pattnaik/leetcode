@@ -927,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1189,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |

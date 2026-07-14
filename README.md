@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3913-sort-vowels-by-frequency](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Counting
 |  |
 | ------- |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3663-find-the-least-frequent-digit](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3913-sort-vowels-by-frequency](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3913-sort-vowels-by-frequency](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Monotonic Stack
 |  |
 | ------- |

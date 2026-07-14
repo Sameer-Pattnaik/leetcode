@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0594-longest-harmonious-subsequence) |

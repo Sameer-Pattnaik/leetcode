@@ -1566,4 +1566,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1661-average-time-of-process-per-machine) |
+| [1729-find-followers-count](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->

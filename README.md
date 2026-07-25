@@ -1566,6 +1566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0610-triangle-judgement) |
 | [1211-queries-quality-and-percentage](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1693-daily-leads-and-partners](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1693-daily-leads-and-partners) |

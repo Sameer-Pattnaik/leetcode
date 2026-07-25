@@ -1579,4 +1579,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1890-the-latest-login-in-2020) |
 | [3421-find-students-who-improved](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3421-find-students-who-improved) |
 | [3586-find-covid-recovery-patients](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3586-find-covid-recovery-patients) |
+| [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/Sameer-Pattnaik/leetcode/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 <!---LeetCode Topics End-->

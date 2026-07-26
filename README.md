@@ -1566,6 +1566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0175-combine-two-tables) |
 | [0610-triangle-judgement](https://github.com/Sameer-Pattnaik/leetcode/tree/master/0610-triangle-judgement) |
 | [1193-monthly-transactions-i](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1211-queries-quality-and-percentage) |

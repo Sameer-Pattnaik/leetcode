@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -836,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Sameer-Pattnaik/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Sameer-Pattnaik/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
